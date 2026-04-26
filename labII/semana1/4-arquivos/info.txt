@@ -1,0 +1,16 @@
+=== Informações do Estoque ===
+
+a) Alimento mais caro:
+   [Alimento] Fondue (Sabor Queijo) - R$ 19.90 | Validade: 26/3/2009
+
+b) Eletrodomestico mais barato:
+   [Eletrodomestico] Torradeira (220V) - R$ 360.10 | IPI: R$ 154.65
+
+c) Produtos de vestuario (nome e estoque):
+   Camiseta - estoque: 10
+   Calca - estoque: 5
+   Bermuda - estoque: 16
+   Casaco - estoque: 8
+   Moleton - estoque: 36
+   Gravata - estoque: 78
+   Camiseta - estoque: 4
